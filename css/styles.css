@@ -1,0 +1,54 @@
+        body {
+            background-color: yellow;
+        }
+        
+        .start {
+            background-color: cadetblue;
+        }
+        
+        .Rred {
+            background-color: red;
+            display: inline;
+            height: 200px;
+            width: 200px;
+        }
+        
+        .Rpink {
+            background-color: pink;
+            display: block;
+            height: 20px;
+            width: 300px;
+        }
+        
+        .Rnone {
+            background-color: blue;
+            display: none;
+        }
+        
+        .Rgreen {
+            background-color: green;
+            display: inline-block;
+            height: 20px;
+            width: 400px;
+        }
+        
+        .kisko {
+            background-color: lightblue;
+            display: inline;
+            height: 20px;
+            width: 400px;
+        }
+        
+        .Ryellow {
+            background-color: coral;
+            display: block;
+            height: 20px;
+            width: 400px;
+        }
+        
+        .Rkisko {
+            background-color: red;
+            display: inline-block;
+            height: 20px;
+            width: 400px;
+        }
